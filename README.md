@@ -1,2 +1,2 @@
 # Widget-Responsive Design-Webview
-Gigih Pangudi Arta
+Farhan Mafidz Wicaksono
