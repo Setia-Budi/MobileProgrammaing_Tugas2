@@ -1,2 +1,2 @@
 # Widget-Responsive Design-Webview
-Farhan Mafidz Wicaksono
+Farhan Mafudz Wicaksono
